@@ -27,5 +27,8 @@
 13/Nov/2022
 - [Checking the Number of Open HTTP Connections With Netstat](https://www.baeldung.com/linux/netstat-count-open-http-connections)
 
+23/Nov/2022
+- [What Is an ELF File?](https://www.baeldung.com/linux/executable-and-linkable-format-file)
+
 
 Disclaimer: I must admit that as I go through my work, I see that I have improved a lot. I attribute my progress in technical writing to the help and mentorship of the various editors, particulary Eric Martin, my primary editor.
