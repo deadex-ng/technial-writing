@@ -7,6 +7,6 @@
     2.    [What Is the EVM and How Does It Work?](https://www.linkedin.com/pulse/what-evm-how-does-work-fumbani-banda/)
     3.    [Ethereum Is Incomplete](https://www.linkedin.com/pulse/ethereum-incomplete-fumbani-banda/)
     4.    [What Is the Ethereum Merge and Why It Matters](https://www.linkedin.com/pulse/what-ethereum-merge-why-matters-fumbani-banda/)
-* [baeldung](https://www.baeldung.com/)
+
 
 Feel free to take a look and I'm open to collaborating on a project. 
