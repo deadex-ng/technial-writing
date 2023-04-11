@@ -33,4 +33,7 @@
 04/Feb/2023
 - [How to Setup Search Indexing for an Entire Linux System](https://www.baeldung.com/linux/setup-search-indexing)
 
+09/Apr/2023
+- [Create Named Unix Sockets With Python](https://www.baeldung.com/linux/python-unix-sockets)
+
 Disclaimer: I must admit that as I go through my work, I see that I have improved a lot. I attribute my progress in technical writing to the help and mentorship of the various editors, particulary Eric Martin, my primary editor.
